@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 127.99999 128"
+   version="1.1"
+   id="svg10"
+   sodipodi:docname="leave.svg"
+   width="128"
+   height="128"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06">
+  <metadata
+     id="metadata16">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Zasób 44</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs14" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1015"
+     id="namedview12"
+     showgrid="false"
+     inkscape:zoom="2.9389787"
+     inkscape:cx="33.900002"
+     inkscape:cy="40.150002"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg10" />
+  <title
+     id="title2">Zasób 44</title>
+  <g
+     id="Warstwa_2"
+     data-name="Warstwa 2"
+     transform="translate(30.099483,23.85)">
+    <g
+       id="Warstwa_1-2"
+       data-name="Warstwa 1">
+      <path
+         d="m 66.66,37.34 -12,-12 a 3.82,3.82 0 0 0 -5.32,0 3.73,3.73 0 0 0 0,5.31 l 5.51,5.65 H 26.1 a 3.8,3.8 0 1 0 0,7.6 h 28.78 l -5.54,5.54 A 3.73,3.73 0 0 0 49.28,54.7 3.47,3.47 0 0 0 52,55.9 3.55,3.55 0 0 0 54.7,54.62 L 66.61,42.71 A 3.47,3.47 0 0 0 67.8,40 3.86,3.86 0 0 0 66.66,37.34 Z"
+         id="path4"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 48,59.5 a 3.76,3.76 0 0 0 -3.8,3.8 v 9.5 H 7.6 V 7.6 h 36.6 v 9.5 a 3.8,3.8 0 1 0 7.6,0 V 3.8 A 3.76,3.76 0 0 0 48,0 H 3.8 A 3.76,3.76 0 0 0 0,3.8 v 72.7 a 3.76,3.76 0 0 0 3.8,3.8 H 48 a 3.87,3.87 0 0 0 3.8,-3.57 V 63.3 A 3.76,3.76 0 0 0 48,59.5 Z"
+         id="path6"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+</svg>

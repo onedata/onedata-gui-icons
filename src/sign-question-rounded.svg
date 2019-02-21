@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="128"
+   height="128"
+   viewBox="0 0 128 128"
+   version="1.1"
+   id="svg13"
+   sodipodi:docname="sign-question-rounded.svg"
+   inkscape:version="0.92.2 2405546, 2018-03-11">
+  <metadata
+     id="metadata17">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Combined Shape</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1015"
+     id="namedview15"
+     showgrid="false"
+     inkscape:zoom="1.3457839"
+     inkscape:cx="-140.61533"
+     inkscape:cy="18.220604"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg13" />
+  <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+  <title
+     id="title2">Combined Shape</title>
+  <desc
+     id="desc4">Created with Sketch.</desc>
+  <defs
+     id="defs6" />
+  <g
+     id="Onepanel-for-provider---zone-"
+     style="fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:1"
+     transform="scale(4.1290323)">
+    <g
+       id="Backend-error-Copy"
+       transform="translate(-1035,-407)"
+       style="fill:#000000">
+      <g
+         id="registartion"
+         transform="translate(318,355)"
+         style="fill:#000000">
+        <g
+           id="form-copy"
+           transform="translate(673,2)"
+           style="fill:#000000">
+          <path
+             d="M 59.5,81 C 68.060414,81 75,74.060414 75,65.5 75,56.939586 68.060414,50 59.5,50 50.939586,50 44,56.939586 44,65.5 44,74.060414 50.939586,81 59.5,81 Z M 54,61.623973 c 0,-0.700606 0.224928,-1.410419 0.67479,-2.129461 0.449863,-0.719043 1.106209,-1.314549 1.96906,-1.786535 C 57.506701,57.23599 58.513345,57 59.663813,57 c 1.069345,0 2.013305,0.197273 2.831907,0.591824 0.818602,0.394552 1.450981,0.93106 1.897156,1.609541 0.446175,0.678481 0.669259,1.415949 0.669259,2.212427 0,0.626857 -0.127213,1.176271 -0.381643,1.648258 -0.254431,0.471987 -0.556793,0.879438 -0.907095,1.222366 -0.350303,0.342928 -0.978995,0.919997 -1.886095,1.731224 -0.250743,0.228619 -0.451703,0.429579 -0.602886,0.602887 -0.151183,0.173307 -0.263647,0.331863 -0.337395,0.475672 -0.07375,0.143808 -0.130902,0.287614 -0.171463,0.431423 -0.04056,0.143808 -0.101403,0.396391 -0.182525,0.757756 -0.140121,0.766979 -0.578915,1.150462 -1.316394,1.150462 -0.38349,0 -0.706132,-0.12537 -0.967937,-0.376113 -0.261805,-0.250743 -0.392706,-0.623164 -0.392706,-1.117275 0,-0.619483 0.09587,-1.155991 0.287615,-1.609541 0.191745,-0.45355 0.446172,-0.851782 0.763288,-1.194711 0.317116,-0.342927 0.744847,-0.750379 1.283207,-1.222365 0.471987,-0.412989 0.813066,-0.724569 1.023248,-0.934751 0.210182,-0.210181 0.387174,-0.444328 0.530982,-0.702445 0.143809,-0.258118 0.215712,-0.538356 0.215712,-0.840723 0,-0.589983 -0.219397,-1.087774 -0.658197,-1.493388 -0.4388,-0.405614 -1.004807,-0.608417 -1.698038,-0.608417 -0.811227,0 -1.408576,0.204647 -1.792066,0.613948 -0.383489,0.409301 -0.707975,1.012181 -0.973468,1.808659 -0.250743,0.833352 -0.72641,1.250022 -1.427015,1.250022 -0.412989,0 -0.761442,-0.145651 -1.045372,-0.436955 C 54.141963,62.278481 54,61.963213 54,61.623973 Z m 5.681445,12.683606 c -0.449863,0 -0.842565,-0.14565 -1.178118,-0.436955 C 58.167774,73.57932 58,73.171869 58,72.648258 58,72.183646 58.162243,71.792788 58.486734,71.475672 58.811225,71.158556 59.209458,71 59.681445,71 c 0.464612,0 0.85547,0.158556 1.172586,0.475672 0.317116,0.317116 0.475672,0.707974 0.475672,1.172586 0,0.516236 -0.165931,0.921843 -0.497796,1.216835 -0.331866,0.294992 -0.71535,0.442486 -1.150462,0.442486 z"
+             id="Combined-Shape"
+             style="fill:#000000"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 128 128"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="organisation .svg"
+   width="128"
+   height="128"
+   inkscape:version="0.92.2 2405546, 2018-03-11">
+  <metadata
+     id="metadata14">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>organisation </dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs12" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1015"
+     id="namedview10"
+     showgrid="false"
+     inkscape:zoom="2.3983739"
+     inkscape:cx="-36.100887"
+     inkscape:cy="59.80537"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg8" />
+  <title
+     id="title2">organisation </title>
+  <g
+     id="Warstwa_2"
+     data-name="Warstwa 2"
+     transform="matrix(1.5243902,0,0,1.5243902,20.40244,26.500001)">
+    <g
+       id="Layer_1"
+       data-name="Layer 1">
+      <path
+         d="m 49.2,17.2 h 8 L 28.2,0 0,17.2 h 7.2 v 30 h -4 v 2 h 50 v -2 h -4 z m -26,30 h -6 v -30 h 6 z m 16,0 h -6 v -30 h 6 z"
+         id="path4"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+</svg>

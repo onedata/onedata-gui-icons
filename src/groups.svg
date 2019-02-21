@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="128"
+   height="128"
+   viewBox="0 0 128 128"
+   version="1.1"
+   id="svg12"
+   sodipodi:docname="group.svg"
+   inkscape:version="0.92.2 2405546, 2018-03-11">
+  <metadata
+     id="metadata16">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Fill 1</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1015"
+     id="namedview14"
+     showgrid="false"
+     inkscape:zoom="3.7926636"
+     inkscape:cx="-3.3354632"
+     inkscape:cy="50.374281"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg12" />
+  <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+  <title
+     id="title2">Fill 1</title>
+  <desc
+     id="desc4">Created with Sketch.</desc>
+  <defs
+     id="defs6" />
+  <g
+     id="Zone-Group-"
+     style="fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:1"
+     transform="matrix(3.3826087,0,0,3.3826087,25.1,26.791304)">
+    <g
+       id="Membership-"
+       transform="translate(-228,-317)"
+       style="fill:#000000">
+      <g
+         id="sub-menu"
+         transform="translate(204)"
+         style="fill:#000000">
+        <path
+           d="m 42.515967,329.71823 v -2.24364 h -6.698411 v -1.22929 c 2.293663,-0.30607 4.063602,-2.24558 4.063602,-4.59917 0,-2.56574 -2.102152,-4.64613 -4.695085,-4.64613 -2.593213,0 -4.695365,2.08039 -4.695365,4.64613 0,2.45746 1.929346,4.46381 4.370132,4.62984 v 1.19862 h -6.698412 v 2.26491 C 25.820469,330.00166 24,331.9663 24,334.35387 24,336.91961 26.102152,339 28.695365,339 c 2.592933,0 4.695085,-2.08039 4.695085,-4.64613 0,-2.42431 -1.877141,-4.41243 -4.271026,-4.62486 v -1.30746 h 12.439548 v 1.35027 c -2.237829,0.35415 -3.949422,2.26768 -3.949422,4.58205 0,2.56574 2.102152,4.64613 4.695365,4.64613 C 44.897848,339 47,336.91961 47,334.35387 c 0,-2.49558 -1.989646,-4.52569 -4.484033,-4.63564"
+           id="Fill-1"
+           inkscape:connector-curvature="0"
+           style="fill:#000000" />
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="128"
+   height="128"
+   viewBox="0 0 128 128"
+   version="1.1"
+   id="svg11"
+   sodipodi:docname="sign-info-rounded.svg"
+   inkscape:version="0.92.2 2405546, 2018-03-11">
+  <metadata
+     id="metadata15">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Combined Shape Copy 3</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1015"
+     id="namedview13"
+     showgrid="false"
+     inkscape:zoom="1.3457839"
+     inkscape:cx="-145.84394"
+     inkscape:cy="-102.12861"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg11" />
+  <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+  <title
+     id="title2">Combined Shape Copy 3</title>
+  <desc
+     id="desc4">Created with Sketch.</desc>
+  <defs
+     id="defs6" />
+  <g
+     id="Onepanel-for-provider---zone-"
+     style="fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:1"
+     transform="scale(4.1290323)">
+    <g
+       id="Backend-error-Copy"
+       transform="translate(-1293,-405)"
+       style="fill:#000000">
+      <path
+         d="m 1308.5,436 c -8.5604,0 -15.5,-6.93959 -15.5,-15.5 0,-8.56041 6.9396,-15.5 15.5,-15.5 8.5604,0 15.5,6.93959 15.5,15.5 0,8.56041 -6.9396,15.5 -15.5,15.5 z m 1.7575,-17.26841 c 0,-0.54369 -0.1551,-0.9682 -0.4653,-1.27356 -0.3103,-0.30535 -0.704,-0.45803 -1.1813,-0.45803 -0.4773,0 -0.8651,0.15268 -1.1634,0.45803 -0.2983,0.30536 -0.4475,0.75966 -0.4475,1.36293 v 8.72498 c 0,0.59581 0.1492,1.05384 0.4475,1.3741 0.2983,0.32025 0.6861,0.48037 1.1634,0.48037 0.4773,0 0.871,-0.1564 1.1813,-0.4692 0.3102,-0.31281 0.4653,-0.77456 0.4653,-1.38527 z m -1.6108,-3.52144 c 0.4375,0 0.8153,-0.14227 1.1335,-0.42682 0.3182,-0.28455 0.4773,-0.6793 0.4773,-1.18427 0,-0.521 -0.1631,-0.91775 -0.4892,-1.19028 -0.3262,-0.27252 -0.7,-0.40878 -1.1216,-0.40878 -0.4376,0 -0.8214,0.15029 -1.1515,0.45086 -0.3301,0.30058 -0.4952,0.68331 -0.4952,1.1482 0,0.51299 0.1611,0.90974 0.4833,1.19028 0.3221,0.28054 0.7099,0.42081 1.1634,0.42081 z"
+         id="Combined-Shape-Copy-3"
+         style="fill:#000000"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+</svg>
