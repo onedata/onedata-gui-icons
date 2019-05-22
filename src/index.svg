@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="Layer_1"
+   data-name="Layer 1"
+   viewBox="0 0 128 128"
+   version="1.1"
+   sodipodi:docname="icons 128x128-01.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata19">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>icons 128x128</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs17" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1853"
+     inkscape:window-height="1025"
+     id="namedview15"
+     showgrid="false"
+     inkscape:zoom="1.84375"
+     inkscape:cx="64"
+     inkscape:cy="64"
+     inkscape:window-x="67"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Layer_1" />
+  <title
+     id="title2">icons 128x128</title>
+  <g
+     id="g831">
+    <rect
+       id="rect4"
+       height="10.27"
+       width="75.93"
+       y="25.74"
+       x="14.64" />
+    <rect
+       id="rect6"
+       height="10.16"
+       width="30.65"
+       y="40.86"
+       x="14.64" />
+    <rect
+       id="rect8"
+       height="10.16"
+       width="23.85"
+       y="55.87"
+       x="14.64" />
+    <rect
+       id="rect10"
+       height="10.16"
+       width="30.65"
+       y="70.88"
+       x="14.64" />
+    <path
+       id="path12"
+       d="M112.47,93.91,97.31,79.27A4.92,4.92,0,0,0,92.67,78l-3.53-3.4A21.27,21.27,0,0,0,86.23,48a18.94,18.94,0,0,0-27.62,1.18,21.21,21.21,0,0,0,1.17,29,18.89,18.89,0,0,0,25.58.83l3.53,3.41a5.47,5.47,0,0,0,1.58,4.74l15.15,14.64a4.89,4.89,0,0,0,7.15-.3A5.5,5.5,0,0,0,112.47,93.91ZM83.29,73a13.53,13.53,0,0,1-19.73.84,15.17,15.17,0,0,1-.83-20.69,13.52,13.52,0,0,1,19.72-.84A15.17,15.17,0,0,1,83.29,73Z" />
+  </g>
+</svg>
