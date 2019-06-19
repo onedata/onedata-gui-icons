@@ -5,7 +5,6 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="128"
@@ -14,7 +13,7 @@
    version="1.1"
    id="svg2"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="browser-upload.svg">
+   sodipodi:docname="browser-file.svg">
   <metadata
      id="metadata511">
     <rdf:RDF>
@@ -36,15 +35,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="2104"
-     inkscape:window-height="1107"
+     inkscape:window-width="1051"
+     inkscape:window-height="948"
      id="namedview509"
      showgrid="false"
-     inkscape:zoom="0.96343298"
-     inkscape:cx="369.86997"
-     inkscape:cy="287.44499"
-     inkscape:window-x="1448"
-     inkscape:window-y="262"
+     inkscape:zoom="1"
+     inkscape:cx="63.392302"
+     inkscape:cy="205.93714"
+     inkscape:window-x="1858"
+     inkscape:window-y="204"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg2" />
   <!-- Generator: Sketch 55 (78076) - https://sketchapp.com -->
@@ -101,28 +100,14 @@
        width="288"
        height="37"
        rx="5" />
-    <mask
-       fill="white"
-       id="mask-4">
-      <use
-         height="100%"
-         width="100%"
-         y="0"
-         x="0"
-         id="use292"
-         xlink:href="#path-3" />
-    </mask>
   </defs>
+  <g
+     style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1"
+     id="g386"
+     transform="translate(1580,-271)" />
   <path
      style="fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:1"
      inkscape:connector-curvature="0"
-     id="path192"
-     d="M 93.09375,56.241706 C 90.402043,42.585456 78.408293,32.333293 64,32.333293 c -11.439544,0 -21.375,6.491706 -26.322956,15.991706 C 25.7625,49.591706 16.5,59.685456 16.5,71.916707 c 0,13.102044 10.647957,23.75 23.75,23.75 l 51.458294,0 C 102.63329,95.666707 111.5,86.8 111.5,75.875 c 0,-10.45 -8.11454,-18.920794 -18.40625,-19.633294 l 0,0 z m -21.177044,11.716587 0,15.833413 -15.833413,0 0,-15.833413 -11.875,0 L 64,48.166706 l 19.791706,19.791587 -11.875,0 0,0 z" />
-  <g
-     style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1"
-     id="g384"
-     transform="translate(1580,-271)">
-    <g
-       id="g386" />
-  </g>
+     id="path397"
+     d="m 37.02664,19 c -4.95,0 -8.95464,4.05 -8.95464,9 L 28,100 c 0,4.95 4.00536,9 8.95536,9 L 91,109 c 4.95,0 9,-4.05 9,-9 l 0,-54 -27,-27 -36,0 0,0 z m 31.5,31.5 0,-24.75 24.75,24.75 -24.75,0 0,0 z" />
 </svg>
