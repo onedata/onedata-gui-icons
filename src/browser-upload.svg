@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="128"
+   height="128"
+   viewBox="0 0 128 128"
+   version="1.1"
+   id="svg2"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="browser-upload.svg">
+  <metadata
+     id="metadata511">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Tabs </dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="2104"
+     inkscape:window-height="1107"
+     id="namedview509"
+     showgrid="false"
+     inkscape:zoom="0.96343298"
+     inkscape:cx="369.86997"
+     inkscape:cy="287.44499"
+     inkscape:window-x="1448"
+     inkscape:window-y="262"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <!-- Generator: Sketch 55 (78076) - https://sketchapp.com -->
+  <title
+     id="title4">Tabs </title>
+  <desc
+     id="desc6">Created with Sketch.</desc>
+  <defs
+     id="defs8">
+    <rect
+       id="path-1"
+       x="1"
+       y="162"
+       width="206.2522"
+       height="66.974953" />
+    <filter
+       x="-0.0099999998"
+       y="-0.029999999"
+       width="1.0190001"
+       height="1.0599999"
+       filterUnits="objectBoundingBox"
+       id="filter-2">
+      <feGaussianBlur
+         stdDeviation="1.5"
+         in="SourceAlpha"
+         result="shadowBlurInner1"
+         id="feGaussianBlur12" />
+      <feOffset
+         dx="0"
+         dy="1"
+         in="shadowBlurInner1"
+         result="shadowOffsetInner1"
+         id="feOffset14" />
+      <feComposite
+         in="shadowOffsetInner1"
+         in2="SourceAlpha"
+         operator="arithmetic"
+         k2="-1"
+         k3="1"
+         result="shadowInnerInner1"
+         id="feComposite16"
+         k1="0"
+         k4="0" />
+      <feColorMatrix
+         values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0"
+         type="matrix"
+         in="shadowInnerInner1"
+         id="feColorMatrix18" />
+    </filter>
+    <rect
+       id="path-3"
+       x="0"
+       y="0"
+       width="288"
+       height="37"
+       rx="5" />
+    <mask
+       fill="white"
+       id="mask-4">
+      <use
+         height="100%"
+         width="100%"
+         y="0"
+         x="0"
+         id="use292"
+         xlink:href="#path-3" />
+    </mask>
+  </defs>
+  <path
+     style="fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:1"
+     inkscape:connector-curvature="0"
+     id="path192"
+     d="M 93.09375,56.241706 C 90.402043,42.585456 78.408293,32.333293 64,32.333293 c -11.439544,0 -21.375,6.491706 -26.322956,15.991706 C 25.7625,49.591706 16.5,59.685456 16.5,71.916707 c 0,13.102044 10.647957,23.75 23.75,23.75 l 51.458294,0 C 102.63329,95.666707 111.5,86.8 111.5,75.875 c 0,-10.45 -8.11454,-18.920794 -18.40625,-19.633294 l 0,0 z m -21.177044,11.716587 0,15.833413 -15.833413,0 0,-15.833413 -11.875,0 L 64,48.166706 l 19.791706,19.791587 -11.875,0 0,0 z" />
+  <g
+     style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1"
+     id="g384"
+     transform="translate(1580,-271)">
+    <g
+       id="g386" />
+  </g>
+</svg>
