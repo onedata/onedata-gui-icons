@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="128"
+   height="128"
+   viewBox="0 0 128 128"
+   version="1.1"
+   id="svg13"
+   sodipodi:docname="circle-not-available.svg"
+   inkscape:version="1.0 (4035a4f, 2020-05-01)">
+  <metadata
+     id="metadata17">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Fill 1 Copy 3</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1280"
+     inkscape:window-height="979"
+     id="namedview15"
+     showgrid="false"
+     inkscape:zoom="4.18641"
+     inkscape:cx="50.565466"
+     inkscape:cy="76.470322"
+     inkscape:window-x="2720"
+     inkscape:window-y="31"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0" />
+  <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+  <title
+     id="title2">Fill 1 Copy 3</title>
+  <desc
+     id="desc4">Created with Sketch.</desc>
+  <defs
+     id="defs6" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Layer 1">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+       x="46.833454"
+       y="42.713844"
+       id="text129"><tspan
+         sodipodi:role="line"
+         id="tspan127"
+         x="46.833454"
+         y="42.713844" /></text>
+    <path
+       d="M 64 25 A 39 39 0 0 0 25 64 A 39 39 0 0 0 64 103 A 39 39 0 0 0 103 64 A 39 39 0 0 0 64 25 z M 67.46875 43.980469 L 72.966797 43.980469 L 63.240234 84.019531 L 57.796875 84.019531 L 67.46875 43.980469 z M 30.984375 50.646484 L 38.695312 50.646484 L 48.757812 65.431641 L 48.757812 50.646484 L 56.542969 50.646484 L 56.542969 77.371094 L 48.757812 77.371094 L 38.75 62.697266 L 38.75 77.371094 L 30.984375 77.371094 L 30.984375 50.646484 z M 79.765625 50.646484 L 88.771484 50.646484 L 98.816406 77.371094 L 90.175781 77.371094 L 88.863281 72.958984 L 79.457031 72.958984 L 78.162109 77.371094 L 69.722656 77.371094 L 79.765625 50.646484 z M 84.177734 57.574219 L 81.242188 67.181641 L 87.130859 67.181641 L 84.177734 57.574219 z "
+       style="fill:#000000"
+       id="path1595" />
+  </g>
+</svg>
