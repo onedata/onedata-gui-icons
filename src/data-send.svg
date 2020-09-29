@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="data-send.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 33.866666 33.866666"
+   height="128"
+   width="128">
+  <defs
+     id="defs2">
+    <rect
+       id="rect1575"
+       height="16.652143"
+       width="19.074274"
+       y="40.267914"
+       x="40.873444" />
+  </defs>
+  <sodipodi:namedview
+     units="px"
+     inkscape:window-maximized="1"
+     inkscape:window-y="0"
+     inkscape:window-x="0"
+     inkscape:window-height="1412"
+     inkscape:window-width="2560"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="text1581"
+     inkscape:document-units="px"
+     inkscape:cy="99.134026"
+     inkscape:cx="-57.67823"
+     inkscape:zoom="1"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     style="mix-blend-mode:normal"
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Warstwa 1">
+    <text
+       style="font-style:normal;font-weight:normal;font-size:16.93329999999999913px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect1575);fill:#000000;fill-opacity:1;stroke:none;"
+       id="text1573"
+       xml:space="preserve"><tspan
+         style="visibility:hidden"
+         x="40.873047"
+         y="73.937888"
+         id="tspan8"><tspan
+           style="shape-inside:url(#rect1575)"
+           id="tspan6">⬆</tspan></tspan></text>
+    <g
+       style="font-size:50.8px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       id="text1581"
+       aria-label="⬆">
+      <path
+         id="path1583"
+         style="font-size:50.79999924px;stroke-width:0.12549099"
+         d="m 8.0824928,20.911525 4.8726482,4.872648 8.893433,-8.893434 3.816339,3.81634 0.11926,-12.6245861 -12.624586,0.1192601 3.816339,3.816338 z"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+</svg>
