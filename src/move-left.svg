@@ -36,13 +36,15 @@
    inkscape:window-height="1414"
    id="namedview52"
    showgrid="false"
-   inkscape:zoom="1.84375"
-   inkscape:cx="64"
-   inkscape:cy="64"
+   showguides="true"
+   inkscape:guide-bbox="true"
+   inkscape:zoom="2.6074563"
+   inkscape:cx="-108.41116"
+   inkscape:cy="76.343985"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="1"
-   inkscape:current-layer="Layer_1" />
+   inkscape:current-layer="g49" />
 <g
    id="g2990"
    transform="matrix(2.9266757,0,0,2.9266757,-6640.1412,-477.24768)"
@@ -164,11 +166,12 @@
    d="M101.5,98.9L79.1,76.4c4.5-5.5,7.3-12.4,7.3-20C86.3,39,72.3,25,54.9,25S23.5,39,23.5,56.4  s14,31.4,31.4,31.4c7.6,0,14.5-2.6,20-7.3L97.4,103L101.5,98.9z M26.9,56.2c0-15.5,12.6-28.1,28.1-28.1S83,40.7,83,56.2  S70.5,84.3,54.9,84.3S26.9,71.8,26.9,56.2z"
    id="path45" />
 <g
-   id="g49"
-   transform="rotate(90,64.3,63.8)">
-	<polygon
-   points="61.6,92.6 34.6,65.4 30.7,69.5 64.4,103.2 98.3,69.5 94.4,65.4 67.1,92.6 67.1,25 61.6,25 "
+   id="g49">
+	<path
+   style="fill:#050505;stroke-width:0.87349683"
+   d="M 44.052229,69.857254 103.1,69.587486 103.07805,57.79533 44.03028,58.065096 67.681399,34.372383 59.143292,26.040899 24.899999,64.047149 59.413083,101.9591 67.920062,93.594898 Z"
    id="polygon47"
-   style="fill:#050505" />
+   inkscape:connector-curvature="0"
+   sodipodi:nodetypes="cccccccccc" />
 </g>
 </svg>
