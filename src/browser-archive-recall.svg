@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="128"
+   height="128"
+   viewBox="0 0 128 128"
+   version="1.1"
+   id="svg833"
+   sodipodi:docname="browser-archive-recall.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs837" />
+  <sodipodi:namedview
+     id="namedview835"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     objecttolerance="10.0"
+     gridtolerance="10.0"
+     guidetolerance="10.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="false"
+     showgrid="false"
+     inkscape:zoom="1"
+     inkscape:cx="266"
+     inkscape:cy="31.5"
+     inkscape:window-width="2560"
+     inkscape:window-height="1376"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Group-16" />
+  <title
+     id="title824">Combined Shape</title>
+  <g
+     id="Dataset"
+     stroke="none"
+     stroke-width="1"
+     fill="none"
+     fill-rule="evenodd"
+     style="fill:#000000"
+     transform="matrix(4.9328999,0,0,4.9328999,24.5368,17.13745)">
+    <g
+       transform="translate(-610,-334)"
+       fill="#555D72"
+       fill-rule="nonzero"
+       id="Group-16"
+       style="fill:#000000">
+      <g
+         transform="matrix(-0.65539677,0,0,0.65539677,909.2499,119.88383)"
+         id="g829"
+         style="fill:#000000">
+        <g
+           id="Groups-Copy"
+           transform="translate(361,266)"
+           style="fill:#000000">
+          <g
+             id="Group"
+             transform="translate(21,70)"
+             style="fill:#000000">
+            <path
+               d="M 61.882353,6.2413793 C 63.058824,6.2413793 64,7.1435839 64,8.2713397 v 0 9.6987003 C 64,19.097795 63.058824,20 61.882353,20 v 0 H 50.117647 C 48.941176,20 48,19.097795 48,17.97004 v 0 -9.6987003 c 0,-1.1277558 0.941176,-2.0299604 2.117647,-2.0299604 v 0 z m -3.22353,3.0900509 c -0.4,0 -0.705882,0.2932165 -0.705882,0.6766538 v 0 1.037535 h -3.905882 v -1.037535 c 0,-0.3834373 -0.305882,-0.6766538 -0.705882,-0.6766538 -0.400001,0 -0.705883,0.2932165 -0.705883,0.6766538 v 0 1.714189 c 0,0.383436 0.305882,0.676653 0.705883,0.676653 v 0 h 5.317646 c 0.400001,0 0.705883,-0.293217 0.705883,-0.676653 v 0 -1.714189 c 0,-0.3834373 -0.305882,-0.6766538 -0.705883,-0.6766538 z m 3.293558,-5.7107405 c 0.404762,0 0.714286,0.283908 0.714286,0.6551724 0,0.3712643 -0.309524,0.6551724 -0.714286,0.6551724 v 0 H 50.047619 c -0.404762,0 -0.714286,-0.2839081 -0.714286,-0.6551724 0,-0.3712644 0.309524,-0.6551724 0.714286,-0.6551724 v 0 z M 60.637681,1 c 0.394203,0 0.695652,0.283908 0.695652,0.6551724 0,0.3712644 -0.301449,0.6551724 -0.695652,0.6551724 v 0 h -9.275362 c -0.394203,0 -0.695652,-0.283908 -0.695652,-0.6551724 C 50.666667,1.283908 50.968116,1 51.362319,1 v 0 z"
+               id="Combined-Shape"
+               style="fill:#000000" />
+          </g>
+        </g>
+      </g>
+      <path
+         d="m 613.41088,337.80561 c 1.50145,-1.46693 3.47036,-2.3404 5.57544,-2.47999 v -0.39321 c 0,-0.29648 0.15679,-0.56189 0.41984,-0.71004 0.2627,-0.14816 0.57647,-0.14798 0.83849,1.6e-4 l 2.84678,1.60585 c 0.26253,0.14798 0.41933,0.41339 0.41933,0.70969 0,0.2963 -0.1568,0.56154 -0.41951,0.70986 l -2.84626,1.6055 c -0.26236,0.14816 -0.57613,0.1485 -0.83899,3.4e-4 -0.26289,-0.14815 -0.41968,-0.41372 -0.41968,-0.71003 v -0.34552 c -1.4313,0.13438 -2.76649,0.74816 -3.79186,1.74996 -1.17358,1.1466 -1.81985,2.67114 -1.81985,4.2926 0,1.62146 0.64627,3.14601 1.81985,4.29243 0.23794,0.23248 0.36912,0.54189 0.36912,0.87128 0,0.32958 -0.13118,0.63898 -0.36912,0.8713 -0.23829,0.23281 -0.55499,0.36114 -0.89179,0.36114 -0.3368,0 -0.65349,-0.12833 -0.89179,-0.36114 -1.64998,-1.61172 -2.55879,-3.75509 -2.55879,-6.03501 0,-2.27993 0.90881,-4.42312 2.55879,-6.03517"
+         id="Fill-4"
+         style="fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:1.25262"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+  <metadata
+     id="metadata839">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>Combined Shape</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>
