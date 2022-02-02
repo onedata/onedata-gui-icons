@@ -23,14 +23,14 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="0.35355339"
-     inkscape:cx="335.16861"
-     inkscape:cy="507.70267"
-     inkscape:window-width="1280"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="529.26943"
+     inkscape:cy="245.71961"
+     inkscape:window-width="2560"
      inkscape:window-height="1376"
      inkscape:window-x="0"
      inkscape:window-y="27"
-     inkscape:window-maximized="0"
+     inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <defs
      id="defs2" />
@@ -38,26 +38,32 @@
      inkscape:label="Warstwa 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <rect
-       style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:3.73216;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect7465"
-       width="36.033756"
-       height="35.356285"
-       x="21.915098"
-       y="23.290003"
-       ry="6.3368478" />
-    <rect
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:3.73216;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect7681"
-       width="36.033756"
-       height="35.356285"
-       x="70.05114"
-       y="69.353706"
-       ry="5.9818187" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:3.73216;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 40.658513,53.158701 V 86.25876 H 68.72531"
-       id="path12123"
-       sodipodi:nodetypes="ccc" />
+    <g
+       id="g1897"
+       transform="translate(-1.4068726,2.8113281)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:5.29167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 40.658513,53.158701 V 73.710764 86.25876 H 68.72531"
+         id="path12123"
+         sodipodi:nodetypes="cccc" />
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:5.29167;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect1021"
+         width="38.409721"
+         height="38.409721"
+         x="21.284742"
+         y="16.77976"
+         rx="0"
+         ry="0" />
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:5.29167;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect1669"
+         width="38.409721"
+         height="38.409721"
+         x="71.119278"
+         y="67.187859"
+         rx="0"
+         ry="0" />
+    </g>
   </g>
 </svg>
