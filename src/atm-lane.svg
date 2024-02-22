@@ -35,17 +35,17 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1300"
-     inkscape:window-height="852"
+     inkscape:window-width="2560"
+     inkscape:window-height="1403"
      id="namedview17"
      showgrid="false"
-     inkscape:zoom="0.47408296"
-     inkscape:cx="120.33679"
-     inkscape:cy="46.386054"
-     inkscape:window-x="1159"
-     inkscape:window-y="125"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg15" />
+     inkscape:zoom="1.3409091"
+     inkscape:cx="-113.25967"
+     inkscape:cy="23.110865"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g985" />
   <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
   <title
      id="title2">Group</title>
@@ -56,35 +56,55 @@
   <g
      id="g985"
      transform="translate(3.3346527,5.4999905)">
-    <rect
-       ry="7.556695"
-       y="21.000021"
-       x="52.980656"
-       height="19.868366"
-       width="46.746006"
-       id="rect935"
-       style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
-    <path
-       sodipodi:nodetypes="cccccccc"
-       inkscape:connector-curvature="0"
-       id="Shape-1-6"
-       d="M 31.646142,21 V 74.209419 H 21.604033 L 34.340365,96 47.076699,74.209419 H 37.034589 V 21 Z"
-       style="fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:3.45637631" />
-    <rect
-       ry="7.556695"
-       y="48.565857"
-       x="52.980656"
-       height="19.868366"
-       width="46.746006"
-       id="rect935-3"
-       style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
-    <rect
-       ry="7.556695"
-       y="76.131653"
-       x="52.980656"
-       height="19.868366"
-       width="46.746006"
-       id="rect935-3-8"
-       style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+    <g
+       id="g846"
+       transform="translate(1.1543701e-6)">
+      <g
+         transform="matrix(1,0,0,0.93333336,0,3.8999891)"
+         id="g823">
+        <rect
+           ry="7.556695"
+           y="21.000021"
+           x="37.292343"
+           height="19.868366"
+           width="46.746006"
+           id="rect935"
+           style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+        <rect
+           ry="7.556695"
+           y="48.565857"
+           x="37.292343"
+           height="19.868366"
+           width="46.746006"
+           id="rect935-3"
+           style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+        <rect
+           ry="7.556695"
+           y="76.131653"
+           x="37.292343"
+           height="19.868366"
+           width="46.746006"
+           id="rect935-3-8"
+           style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      </g>
+      <rect
+         ry="0"
+         rx="0"
+         y="21.00001"
+         x="22.165348"
+         height="75"
+         width="7"
+         id="rect818"
+         style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.19729877;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <rect
+         ry="0"
+         rx="0"
+         y="21.00001"
+         x="92.165344"
+         height="75"
+         width="7"
+         id="rect818-4"
+         style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.19729877;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+    </g>
   </g>
 </svg>
