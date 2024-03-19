@@ -5,7 +5,6 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="128"
@@ -13,7 +12,7 @@
    viewBox="0 0 128 128"
    version="1.1"
    id="svg2"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
    sodipodi:docname="browser-new-directory.svg">
   <metadata
      id="metadata511">
@@ -36,14 +35,14 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="2104"
-     inkscape:window-height="1107"
+     inkscape:window-width="1920"
+     inkscape:window-height="1080"
      id="namedview509"
      showgrid="false"
      inkscape:zoom="0.48171649"
-     inkscape:cx="626.2371"
+     inkscape:cx="142.55011"
      inkscape:cy="598.10646"
-     inkscape:window-x="1543"
+     inkscape:window-x="640"
      inkscape:window-y="251"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg2" />
@@ -53,77 +52,10 @@
   <desc
      id="desc6">Created with Sketch.</desc>
   <defs
-     id="defs8">
-    <rect
-       id="path-1"
-       x="1"
-       y="162"
-       width="206.2522"
-       height="66.974953" />
-    <filter
-       x="-0.0099999998"
-       y="-0.029999999"
-       width="1.0190001"
-       height="1.0599999"
-       filterUnits="objectBoundingBox"
-       id="filter-2">
-      <feGaussianBlur
-         stdDeviation="1.5"
-         in="SourceAlpha"
-         result="shadowBlurInner1"
-         id="feGaussianBlur12" />
-      <feOffset
-         dx="0"
-         dy="1"
-         in="shadowBlurInner1"
-         result="shadowOffsetInner1"
-         id="feOffset14" />
-      <feComposite
-         in="shadowOffsetInner1"
-         in2="SourceAlpha"
-         operator="arithmetic"
-         k2="-1"
-         k3="1"
-         result="shadowInnerInner1"
-         id="feComposite16"
-         k1="0"
-         k4="0" />
-      <feColorMatrix
-         values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0"
-         type="matrix"
-         in="shadowInnerInner1"
-         id="feColorMatrix18" />
-    </filter>
-    <rect
-       id="path-3"
-       x="0"
-       y="0"
-       width="288"
-       height="37"
-       rx="5" />
-    <mask
-       fill="white"
-       id="mask-4">
-      <use
-         height="100%"
-         width="100%"
-         y="0"
-         x="0"
-         id="use292"
-         xlink:href="#path-3" />
-    </mask>
-  </defs>
+     id="defs8" />
   <path
      style="fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:1"
      inkscape:connector-curvature="0"
      id="path194"
      d="m 96,40 -32,0 -8,-8 -24,0 c -4.44,0 -7.96,3.56 -7.96,8 L 24,88 c 0,4.44 3.56,8 8,8 l 64,0 c 4.44,0 8,-3.56 8,-8 l 0,-40 c 0,-4.44 -3.56,-8 -8,-8 l 0,0 z m -4,32 -12,0 0,12 -8,0 0,-12 -12,0 0,-8 12,0 0,-12 8,0 0,12 12,0 0,8 0,0 z" />
-  <g
-     style="fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:1"
-     id="g384"
-     transform="translate(1580,-271)">
-    <g
-       id="g386"
-       style="fill:#000000" />
-  </g>
 </svg>

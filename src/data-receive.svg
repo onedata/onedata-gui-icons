@@ -8,34 +8,27 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    sodipodi:docname="data-receive.svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
    id="svg8"
    version="1.1"
    viewBox="0 0 33.866666 33.866666"
    height="128"
    width="128">
   <defs
-     id="defs2">
-    <rect
-       id="rect1575"
-       height="16.652143"
-       width="19.074274"
-       y="40.267914"
-       x="40.873444" />
-  </defs>
+     id="defs2" />
   <sodipodi:namedview
      units="px"
      inkscape:window-maximized="1"
      inkscape:window-y="0"
      inkscape:window-x="0"
-     inkscape:window-height="1412"
+     inkscape:window-height="1403"
      inkscape:window-width="2560"
      showgrid="false"
      inkscape:document-rotation="0"
      inkscape:current-layer="text1581"
      inkscape:document-units="px"
      inkscape:cy="99.134026"
-     inkscape:cx="-57.67823"
+     inkscape:cx="-290.67823"
      inkscape:zoom="1"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
@@ -60,18 +53,8 @@
      id="layer1"
      inkscape:groupmode="layer"
      inkscape:label="Warstwa 1">
-    <text
-       style="font-style:normal;font-weight:normal;font-size:16.93329999999999913px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect1575);fill:#000000;fill-opacity:1;stroke:none;"
-       id="text1573"
-       xml:space="preserve"><tspan
-         style="visibility:hidden"
-         x="40.873047"
-         y="73.937888"
-         id="tspan8"><tspan
-           style="shape-inside:url(#rect1575)"
-           id="tspan6">⬆</tspan></tspan></text>
     <g
-       style="font-size:50.8px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       style="font-size:50.79999924px;line-height:1.25;font-family:sans-serif;display:inline;stroke-width:0.26458299"
        id="text1581"
        aria-label="⬆">
       <path
