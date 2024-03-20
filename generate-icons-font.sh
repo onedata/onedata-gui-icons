@@ -6,8 +6,21 @@
 #
 # This script generates "oneicons" font from the icon images in the "src" directory.
 # It requires one argument: target directory where the font should be placed.
+#
+# Typically you need to generate oneicons files into onedata-gui-common assets, for example:
+# ./generate-icons-font.sh ~/Onedata/onezone-gui/src/lib/onedata-gui-common/public/assets/fonts/oneicons
 
 OUTPUT=$1
+
+if [ -z "${OUTPUT}" ]; then
+  echo 'This script generates "oneicons" font from the icon images in the "src" directory.
+It requires one argument: target directory where the font should be placed.
+
+Typically you need to generate oneicons files into onedata-gui-common assets, for example:
+./generate-icons-font.sh ~/Onedata/onezone-gui/src/lib/onedata-gui-common/public/assets/fonts/oneicons
+  '
+  exit 1;
+fi
 
 # Generate icons font
 npx --yes fantasticon@2.0.0 \
@@ -21,7 +34,7 @@ npx --yes fantasticon@2.0.0 \
   --font-height 1024
 
 # Add file path prefix variable to .scss content
-sed -i 's/url("./url("#{$icomoon-font-path}/g' "$OUTPUT/oneicons.scss"
+sed -i 's/url("./url("#{$oneicons-font-path}/g' "$OUTPUT/oneicons.scss"
 
 # Remove anti-cache query string from file names
 sed -i -E 's/(\.woff2|\.woff)\?[a-z0-9]+"/\1"/g' "$OUTPUT/oneicons.css" "$OUTPUT/oneicons.scss"
