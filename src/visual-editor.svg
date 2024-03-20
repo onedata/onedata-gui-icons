@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -7,62 +9,44 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0 (4035a4f, 2020-05-01)"
-   sodipodi:docname="visual-editor.svg"
-   id="svg78"
+   width="128"
+   height="128"
+   viewBox="0 0 33.866666 33.866668"
    version="1.1"
-   viewBox="0 0 16 13"
-   height="128px"
-   width="128px">
+   id="svg821"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="visual-editor2.svg">
+  <defs
+     id="defs815" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="-70.280999"
+     inkscape:cy="74.60771"
+     inkscape:document-units="mm"
+     inkscape:current-layer="svg821"
+     showgrid="false"
+     units="px" />
   <metadata
-     id="metadata84">
+     id="metadata818">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <defs
-     id="defs82" />
-  <sodipodi:namedview
-     inkscape:current-layer="svg78"
-     inkscape:window-maximized="0"
-     inkscape:window-y="23"
-     inkscape:window-x="0"
-     inkscape:cy="64"
-     inkscape:cx="64"
-     inkscape:zoom="1"
-     showgrid="false"
-     id="namedview80"
-     inkscape:window-height="1395"
-     inkscape:window-width="2560"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0"
-     guidetolerance="10"
-     gridtolerance="10"
-     objecttolerance="10"
-     borderopacity="1"
-     bordercolor="#666666"
-     pagecolor="#ffffff" />
-  <title
-     id="title73">Shape</title>
-  <g
-     transform="matrix(0.67578125,0,0,0.67578125,2.59375,2.175)"
-     fill-rule="evenodd"
-     fill="none"
-     stroke-width="1"
-     stroke="none"
-     id="Share-New-2020">
-    <g
-       fill="#000000"
-       transform="translate(-1682,-280)"
-       id="Shared_open-data-v2">
-      <path
-         id="Shape"
-         d="m 1696.4,280 h -12.8 c -0.88,0 -1.6,0.72 -1.6,1.6 v 9.6 c 0,0.88 0.72,1.6 1.6,1.6 h 12.8 c 0.88,0 1.6,-0.72 1.6,-1.6 v -9.6 c 0,-0.88 -0.72,-1.6 -1.6,-1.6 z m -12.8,6.4 h 3.2 v 1.6 h -3.2 z m 8,4.8 h -8 v -1.6 h 8 z m 4.8,0 h -3.2 v -1.6 h 3.2 z m 0,-3.2 h -8 v -1.6 h 8 z" />
-    </g>
-  </g>
+  <path
+     inkscape:connector-curvature="0"
+     d="M 26.087867,7.77875 H 7.778701 c -1.2587552,0 -2.2886458,1.02989 -2.2886458,2.28864 v 13.73188 c 0,1.25875 1.0298906,2.28864 2.2886458,2.28864 h 18.309166 c 1.258755,0 2.288646,-1.02989 2.288646,-2.28864 V 10.06739 c 0,-1.25875 -1.029891,-2.28864 -2.288646,-2.28864 z M 7.778701,16.93333 h 4.577291 v 2.28865 H 7.778701 Z M 19.22193,23.79927 H 7.778701 V 21.51062 H 19.22193 Z m 6.865937,0 h -4.577291 v -2.28865 h 4.577291 z m 0,-4.57729 H 14.644638 v -2.28865 h 11.443229 z"
+     id="Shape"
+     style="fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:1.43040359" />
 </svg>

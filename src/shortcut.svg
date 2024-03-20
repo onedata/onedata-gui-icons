@@ -13,7 +13,7 @@
    version="1.1"
    id="svg8"
    sodipodi:docname="shortcut.svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
   <metadata
      id="metadata14">
     <rdf:RDF>
@@ -42,31 +42,15 @@
      id="namedview10"
      showgrid="false"
      inkscape:zoom="5.5625733"
-     inkscape:cx="-16.615978"
-     inkscape:cy="44.87556"
+     inkscape:cx="85.13549"
+     inkscape:cy="57.175806"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg8" />
-  <title
-     id="title2">Shape</title>
-  <g
-     id="Page-1"
-     style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1"
-     transform="matrix(4.6302221,-1.8291281,1.9508257,4.5131664,2.2771683,35.89023)">
-    <g
-       id="Content"
-       transform="translate(-123,-197)"
-       style="fill:#000000">
-      <g
-         id="Icon-24px"
-         transform="translate(99,197)">
-        <path
-           d="M 31,4 V 0 l -7,7 7,7 V 9.9 c 5,0 8.5,1.6 11,5.1 C 41,10 38,5 31,4 Z"
-           id="Shape"
-           transform="matrix(-1,0,0,1,66,0)"
-           inkscape:connector-curvature="0" />
-      </g>
-    </g>
-  </g>
+  <path
+     style="fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:4.94623804"
+     inkscape:connector-curvature="0"
+     id="Shape"
+     d="M 61.012916,33.822491 C 58.411815,27.804936 55.810714,21.787381 53.209614,15.769826 68.56539,22.032582 83.921172,28.295337 99.276948,34.558094 93.025025,49.35678 86.773097,64.15547 80.521173,78.954155 77.855044,72.78616 75.188917,66.618168 72.522788,60.450173 58.11002,66.013552 44.415185,75.132058 37.119919,88.741648 34.559643,93.40057 32.738748,98.429458 31.539556,103.58773 27.849613,86.619362 29.262475,67.897189 39.283866,53.294639 44.733572,45.189615 52.427378,38.680686 61.012916,33.822491 Z" />
 </svg>
